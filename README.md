@@ -1,0 +1,2 @@
+# ScalaFundManager
+Fund Manager Project 
